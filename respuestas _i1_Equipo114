@@ -3,7 +3,12 @@ BESSIO ROCIO
 DARIO FERNANDO OVELAR
 
 [A] - ¿ALFA ve los datos que cargaron los demás en su repositorio?
+ Si, todos los integrantes que esten añadidos como colaboradores pueden modificar el repositorio, todas las modificaciones que sean realizadas una vez hecho el [PUSH] 
+ seran actualizzadas en el repositorio, correspondiente a la rama en la cual sea haya realizado dicho push.
 [B] - ¿Si ALFA agrega un archivo los demás integrantes lo ven?
+Si, como mencione en la anterior pregunta, esto conforma todos los integrantes, independiente del rol del mismo. Todos los colaboradores podran ver los cambios que 
+se realicen. 
+En caso de modificarlo de MANERA LOCAL, deberan volver a descargarlo para actualizar la informacion.
 [C] - ¿Si BETA agrega un archivo los demás integrantes lo ven?
 [D] - ¿De qué forma se comunicaron ustedes?
 [E] - ¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
